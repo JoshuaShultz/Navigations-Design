@@ -2,7 +2,7 @@
 
 Projektet her er førløbet vi gik igennem for at lave et produkt med en hjemmeside markedesført til en specifik målgruppe
 
-##Produktbeskrivelse:
+## Produktbeskrivelse:
 
 Vi har valgt at vores
 produkt er æbletærter. ideen er at lave en lækker økologisk æbletærte på
@@ -14,12 +14,12 @@ for at blive bragt med ind i en moderne og travl hverdag - server den gerne for
 dine gæster, de vil aldrig opdage at du ikke selv havde bagt den. Det er ikke
 besværligt for at være hyggeligt 
 
-###Målgruppe 
+### Målgruppe 
 
 Vi har valgt at
 særligt appellere til kvinder i alderen 25-45 i middelvelstand  
 
-###Motto
+### Motto
 
 Kvalitet og god smag,
 kan redde hver en dag.
